@@ -1,0 +1,7 @@
+{
+  "name": "IOE K6 - Luyện Thi Toàn Diện",
+  "description": "An interactive and gamified platform for 6th-grade students at Nguyen Trung Truc Secondary School to practice for the IOE English competition. Features 10 rounds of questions, skill analysis, and a rewarding progression system.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
